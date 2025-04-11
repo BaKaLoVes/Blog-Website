@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="{{ asset('css/pages/about.css') }}">
 <body>
     @include('components.header')
-    
+    testest
     <div class="about-hero">
         <h1>About Our Blog</h1>
         <p>This is a simple blog platform where users can share their thoughts and ideas.</p>
